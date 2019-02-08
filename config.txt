@@ -1,8 +1,8 @@
-token= Õÿ «· Êﬂ‰ ⁄·ÿÊ·
+token=NDU0NDA4NDg2NDc4OTM4MTIz.Dz7HLQ.7PQVT8_SRTaZsgBV5zeRSQukJos
 
-owner=441683368418082836 
+owner=323264589120667648
 
-prefix=$
+prefix=1
 
 stayinchannel=true
 
