@@ -1,8 +1,8 @@
-token=NDU0NDA4NDg2NDc4OTM4MTIz.Dz7HLQ.7PQVT8_SRTaZsgBV5zeRSQukJos
+token=NTQzODEyMjQ5Njg5NjUzMjY4.D0CC6g.J9FT6_xl7DimHQPzQokBGbevMbU
 
-owner=323264589120667648
+owner=498991974393708554
 
-prefix=1
+prefix=M
 
 stayinchannel=true
 
